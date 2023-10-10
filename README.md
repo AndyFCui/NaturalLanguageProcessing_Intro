@@ -1,8 +1,8 @@
 # NaturalLanguageProcessing_Intro
 This is course of Northeastern University Lecture assignment
 
-# As1
-Sentiment Analysis on Movie Reviews
+# As1 Sentiment Analysis on Movie Reviews
+
 📢 Introduction:
 In this project, I've tackled the exciting challenge of sentiment analysis, specifically focusing on movie reviews. Movies have always been a passion of mine, but diving deep into what people think about them? That's an adventure in itself!
 
@@ -24,8 +24,8 @@ A big thank you to everyone who has contributed to the dataset and to those who 
 
 
 
-# As2 (Still Working)
-Text Classification Project with TF-IDF Vectorization
+# As2 Text Classification Project with TF-IDF Vectorization (Still Working)
+
 📢 Introduction:
 In this project, I've dived deep into the realms of text classification leveraging the power of Multinomial Naive Bayes and Neural Networks. Unlike traditional Bag of Words methods, I chose to employ TF-IDF Vectorization, ensuring a more nuanced representation of text data.
 
