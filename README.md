@@ -1,7 +1,7 @@
 # NaturalLanguageProcessing_Intro
 This is course of Northeastern University Lecture assignment.
 - Assignment 1: Sentiment Analysis on Movie Reviews
-- Assignment 2(Still Working): Text Classification Project with TF-IDF Vectorization
+- Assignment 2: Text Classification Project with TF-IDF Vectorization
 
 # As1 Sentiment Analysis on Movie Reviews
 
