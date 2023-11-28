@@ -2,7 +2,7 @@
 This is course of Northeastern University Lecture assignment.
 - Assignment 1: Sentiment Analysis on Movie Reviews
 - Assignment 2: Text Classification Project with TF-IDF Vectorization
-- Assignment 3(On working): Implementing Skipgram and CBOW Algorithms 
+- Assignment 3: Implementing Skipgram and CBOW Algorithms 
 
 # As1 Sentiment Analysis on Movie Reviews
 
